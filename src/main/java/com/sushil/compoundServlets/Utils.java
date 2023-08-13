@@ -8,9 +8,6 @@ public class Utils {
 		return principal * Math.pow(1 + (interest / compoundingPeriod) , (compoundingPeriod * years));
 	}
 	
-	public static String kaboom() {
-		
-		return "Hello from method Utils";
-	}
+	
 
 }
